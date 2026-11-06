@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=OICMPTunnel
+Comment=ICMP/ICMPv6 covert-channel & tunnel detector (offline; pcap/log)
+Exec=OICMPTunnel
+Icon=/usr/share/icons/Owl.png
+Terminal=true
+Categories=ONet;
+Keywords=OICMPTunnel;owlsec;security;icmp;tunnel;covert;dpi;
